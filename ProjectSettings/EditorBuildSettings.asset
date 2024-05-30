@@ -21,11 +21,23 @@ EditorBuildSettings:
     path: Assets/Scenes/Pre_level_1.unity
     guid: acac8735d43a4904fa818a2ad251472a
   - enabled: 1
+    path: Assets/Scenes/Pre_level_2.unity
+    guid: 73811e62db174244c91addebf163f156
+  - enabled: 1
+    path: Assets/Scenes/Pre_level_3.unity
+    guid: cca0f5b3a41e7dc4cbd42dc5dde96325
+  - enabled: 1
     path: Assets/Scenes/JUEGO PRINCIPAL 2.unity
     guid: 74496761113cf824b923955bc79560ac
   - enabled: 0
     path: Assets/Scenes/JUEGO PRINCIPAL.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GAME_2.unity
+    guid: ef388fb06ec1fa4419f2fc281024d618
+  - enabled: 1
+    path: Assets/Scenes/GAME_3.unity
+    guid: 7c8056d8437f72649b01ff9cc2710b85
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e0f169d539142f548afb33e589473579, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 72ada7ac0b85c1e4a85250aabb1f3b77, type: 2}
