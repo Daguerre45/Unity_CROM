@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 6f0d0ce02c56ed44eb6ca42e3fd9eafd
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 61e7760a03c2db24887b1d0b470df666
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: fbfb5251543d4cd43ae0031d306c83ba
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 4befa452b97d7d04a874b5fe6d0dd607
+  - enabled: 1
+    path: Assets/Scenes/Pre_level_1.unity
+    guid: acac8735d43a4904fa818a2ad251472a
+  - enabled: 1
+    path: Assets/Scenes/Pre_level_2.unity
+    guid: 73811e62db174244c91addebf163f156
+  - enabled: 1
+    path: Assets/Scenes/Pre_level_3.unity
+    guid: cca0f5b3a41e7dc4cbd42dc5dde96325
+  - enabled: 1
+    path: Assets/Scenes/JUEGO PRINCIPAL 2.unity
+    guid: 74496761113cf824b923955bc79560ac
+  - enabled: 0
+    path: Assets/Scenes/JUEGO PRINCIPAL.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GAME_2.unity
+    guid: ef388fb06ec1fa4419f2fc281024d618
+  - enabled: 1
+    path: Assets/Scenes/GAME_3.unity
+    guid: 7c8056d8437f72649b01ff9cc2710b85
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e0f169d539142f548afb33e589473579, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 72ada7ac0b85c1e4a85250aabb1f3b77, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 300aa3b772db05b44917f705781a0a3b, type: 2}
